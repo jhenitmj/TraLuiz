@@ -1,4 +1,4 @@
-create database oil
+﻿create database oil
 use oil
 
 create table usuario
@@ -35,4 +35,16 @@ create table troca
 	codOleo int foreign key references oleo,
 	litros int
 );
-insert into usuario values (1, 'eliseu.messias', 123)
+
+BULK INSERT usuario
+FROM '‪C:\Users\Particular\Desktop\usuarios.txt'
+
+BULK INSERT oleo
+FROM 'C:\Users\Particular\Downloads\Oleos.txt'
+
+
+BULK INSERT cliente
+FROM '‪C:\Users\Particular\Downloads\Clientes.txt'
+
+
+

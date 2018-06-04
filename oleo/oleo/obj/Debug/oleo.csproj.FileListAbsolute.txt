@@ -17,3 +17,6 @@ E:\PA\oleo\oleo\bin\Debug\normnfc.nlp
 E:\PA\oleo\oleo\bin\Debug\normnfd.nlp
 E:\PA\oleo\oleo\bin\Debug\normnfkc.nlp
 E:\PA\oleo\oleo\bin\Debug\normnfkd.nlp
+C:\Users\Particular\Documents\GitHub\TraLuiz\oleo\oleo\bin\Debug\oleo.exe.config
+C:\Users\Particular\Documents\GitHub\TraLuiz\oleo\oleo\obj\Debug\oleo.exe
+C:\Users\Particular\Documents\GitHub\TraLuiz\oleo\oleo\obj\Debug\oleo.pdb
